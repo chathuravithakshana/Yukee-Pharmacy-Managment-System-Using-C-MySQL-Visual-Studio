@@ -1,1 +1,2 @@
 # Yukee-Pharmacy-Managment-System-Using-Java-MySQL-NetBeans
+This is a "Pharmacy Management System" developed by team of Computer Studies undergraduates including me in 2017. To develop this, we used Java as programming language, NetBeans as IDE, SQL as query processing language & MySQL as local database. This is a simple Pharmacy Management System for Yukee Pharmacy (located in Dalugama, Kelaniya) to handle the sales. Since we don’t know java, we had to hardly deep inside and find the possible methods to implement this project. 
