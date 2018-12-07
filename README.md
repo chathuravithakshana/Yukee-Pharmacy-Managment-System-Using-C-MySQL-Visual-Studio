@@ -1,1 +1,1 @@
-# Yukee-Pharmacy-Managment-System-Using-C-MySQL-Visual-Studio
+# Yukee-Pharmacy-Managment-System-Using-Java-MySQL-NetBeans
